@@ -13,11 +13,15 @@
   "files": [
     "lib"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugofabricio/puzzle-ds.git"
+  },
   "publishConfig": {
     "access": "public"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "8c8230580d5f3601a44430e6cddc1fcb9aa1fa8d"
+  "gitHead": "9809f1d22ba66785372839eb92819c6ba5c397a4"
 }
