@@ -6,6 +6,7 @@
   "homepage": "https://github.com/hugofabricio/puzzle-ds#readme",
   "license": "ISC",
   "main": "src/index.js",
+  "private": false,
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -26,5 +27,5 @@
   "bugs": {
     "url": "https://github.com/hugofabricio/puzzle-ds/issues"
   },
-  "gitHead": "138dd45a95dbfd000d62187b79fb5378210e5e9a"
+  "gitHead": "eb0179a408f1e6bbf395923af271e8f16c9879f2"
 }
