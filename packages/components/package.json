@@ -21,9 +21,10 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "tokens": "^0.0.8"
+    "@puzzle-ds/tokens": "^0.0.1"
   },
   "bugs": {
     "url": "https://github.com/hugofabricio/puzzle-ds/issues"
-  }
+  },
+  "gitHead": "8c8230580d5f3601a44430e6cddc1fcb9aa1fa8d"
 }
